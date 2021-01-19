@@ -12,4 +12,6 @@ Aspiring to be a researcher in the field of NeuroEvolution based Reinforcement L
 ## Programming Languages of Choice (Ranked) 📝
 1. Rust
 2. Python
-3. JavaScript
+3. TypeScript
+4. C++
+5. JavaScript
