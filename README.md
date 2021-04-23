@@ -2,16 +2,19 @@
 	<img src="https://raw.githubusercontent.com/vspecky/vspecky/master/GitHubPoster.png">
 </p>
 
-I'm currently an undergrad student in India 📚. Hope to travel abroad for my Masters if the whole Covid-19 situation boils over 🌎 👨🏻‍🎓. Love everything Programming related! ⌨️
+I'm currently an undergrad student in India 📚 working hard to make a place for himself in the world.
 
 ## Interests 🖥
-I love Programming 💻, YouTube 🎥 and Minecraft! 🎮  
-I'm into a variety of topics when it comes to Programming and Computer Science but I'm especially Fond of Reinforcement Learning 🤖 (Coolest branch of Machine Learning).  
-Aspiring to be a researcher in the field of NeuroEvolution based Reinforcement Learning (Might change in the future. Nothing's fixed after all :p)  
+- I love Programming 💻, YouTube 🎥 and Minecraft! 🎮  
+- I'm into a variety of topics when it comes to Programming and Computer Science and have made projects across various domains from Web Development to Evolutionary Computation to Parsers.
+- I am current pursuing Backend Development, System Design and Distributed Systems.
 
-## Programming Languages of Choice (Ranked) 📝
-1. Rust
-2. Python
-3. TypeScript
-4. C++
-5. JavaScript
+## Programming Languages I use 📝
+1. Javascript
+2. Typescript
+3. Python
+4. Go
+5. Rust
+6. C++
+7. Haskell
+8. PHP
